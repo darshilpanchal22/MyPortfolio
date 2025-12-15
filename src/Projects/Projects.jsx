@@ -13,10 +13,7 @@ const Projects = () => {
   };
 
   return (
-    <section
-      id="work"
-      className="py-24 px-[12vw] font-sans"
-    >
+    <section id="work" className="py-24 px-[12vw] font-sans">
       {/* Section Title */}
       <div className="text-center mb-16">
         <h2 className="text-4xl font-bold text-white">PROJECTS</h2>

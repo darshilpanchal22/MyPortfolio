@@ -11,7 +11,8 @@ const Skills = () => (
       <h2 className="text-3xl sm:text-4xl font-bold text-white">SKILLS</h2>
       <div className="w-24 h-1 bg-[#8245ec] mx-auto mt-4"></div>
       <p className="text-gray-400 text-lg font-semibold mt-4">
-      A collection of my technical skills and expertise honed through various projects and experiences
+        A collection of my technical skills and expertise honed through various
+        projects and experiences
       </p>
     </div>
 
